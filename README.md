@@ -49,7 +49,7 @@ Discriminator = `[C1, MP1, C2, MP2, C3, MP3, C4, nn.Flatten(), nn.Linear(), nn.L
 
 Specific channel/feature parameters and convolution parameters can be found within the Notebook file.
 
-## DCGAN Architecture
+### DCGAN Architecture
 
 The DCGAN initializes both a Generator and a Discriminator, with separate Adam optimizers for both. 
 
