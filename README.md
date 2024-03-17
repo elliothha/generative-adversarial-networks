@@ -64,10 +64,10 @@ Discriminator Loss: 98.0899, Generator Loss: 98.1262
 
 ## References
 1. Avinash Hindupur's GitHub repo for keeping track of "all named GANs" | [link](https://github.com/hindupuravinash/the-gan-zoo)
-2. *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks*, Radford et. al 2015 | [1511.06434](https://arxiv.org/abs/1511.06434)
-3. Implementation of the DCGAN by Radford et. al | [link](https://github.com/Newmu/dcgan_code)
-4. *Generative Adversarial Networks*, Goodfellow et. al 2014 | [1406.2661](https://arxiv.org/abs/1406.2661)
-5. Implementation of the GAN by Goodfellow et. al | [link](https://github.com/goodfeli/adversarial)
+2. *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks*, Radford et al. 2015 | [1511.06434](https://arxiv.org/abs/1511.06434)
+3. Implementation of the DCGAN by Radford et al. | [link](https://github.com/Newmu/dcgan_code)
+4. *Generative Adversarial Networks*, Goodfellow et al. 2014 | [1406.2661](https://arxiv.org/abs/1406.2661)
+5. Implementation of the GAN by Goodfellow et al. | [link](https://github.com/goodfeli/adversarial)
 6. Zak Jost's "Gentle Intro to Generative Adversarial Networks - Part 1 (GANs)" | [link](https://www.youtube.com/watch?v=3z8VSpBL6Vg)
 7. Zak Jost's "Understand the Math and Theory of GANs in ~ 10 minutes" | [link](https://www.youtube.com/watch?v=J1aG12dLo4I&t=1s)
 
